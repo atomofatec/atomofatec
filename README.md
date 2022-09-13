@@ -20,9 +20,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomofatec&layout=copact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### Equipe 
-
 <br>
+
+### Equipe 
 
 |Nome|GitHub|
 | -------- |-------- |
