@@ -2,7 +2,7 @@
  
  ###
  
- Perfil destinado ao desenvolvimento dos projetos API (Aprendizagem por Projeto Integrador) propostos pela FATEC de São José dos Campos
+ Perfil destinado ao desenvolvimento dos projetos API (Aprendizagem por Projeto Integrador) propostos pela Fatec Prof. Jessen Vidal - São José dos Campos
  
  ###
  
