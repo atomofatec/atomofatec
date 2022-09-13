@@ -17,10 +17,10 @@
 ###
 
  Equipe
- * Elisa
- * Ivan
- * João Gabriel
- * Nicholas Guilherme
- * Rebeca
- * Thiago
- * Víctor
+ - Elisa
+ - Ivan
+ - João Gabriel
+ - Nicholas Guilherme
+ - Rebeca
+ - Thiago
+ - Víctor
