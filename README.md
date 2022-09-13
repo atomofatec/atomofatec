@@ -11,14 +11,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="42" alt="css3 logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" width="42" alt="java logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
 </div>
 
 ###
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomofatec&layout=copact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <br>
 
