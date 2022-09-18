@@ -28,7 +28,7 @@
 |**João Gabriel**|[@GitHub](https://github.com/JoaoGRMira)|
 |**Nicholas Guilherme**|[@GitHub](https://github.com/NicholasGui29)|
 |**Rebeca Gama**|[@GitHub](https://github.com/RebecaGama)|
-|**Thiago Bueno**|[@GitHub]()|
+|**Thiago Bueno**|[@GitHub](https://github.com/TjBueno)|
 |**Víctor Henrique**|[@GitHub](https://github.com/ViktorHenrique)|
 
 <br>
