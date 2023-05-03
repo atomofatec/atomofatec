@@ -21,7 +21,7 @@ Perfil destinado ao desenvolvimento dos projetos API (Aprendizagem por Projeto I
 ##
 
 <div align="center"> 
-  ![Snake animation](https://github.com/atomofatec/atomofatec/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/atomofatec/atomofatec/blob/main/.github/workflows/cobrinha.yml)
 </div>
 
 ### Equipe 
