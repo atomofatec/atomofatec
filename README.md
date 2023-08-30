@@ -30,7 +30,7 @@ Perfil destinado ao desenvolvimento dos projetos API (Aprendizagem por Projeto I
 |**Isabel Vitória**|[@GitHub](https://github.com/)|
 |**João Gabriel**|[@GitHub](https://github.com/JoaoGRMira)|
 |**Rebeca Gama**|[@GitHub](https://github.com/RebecaGama)|
-|**Simone Hissae**|[@GitHub](https://github.com/Rebeca)|
+|**Simone Hissae**|[@GitHub](https://github.com/Simonehk)|
 |**Thiago Bueno**|[@GitHub](https://github.com/TjBueno)|
 |**Víctor Henrique**|[@GitHub](https://github.com/ViktorHenrique)|
 
