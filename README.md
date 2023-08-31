@@ -27,7 +27,7 @@ Perfil destinado ao desenvolvimento dos projetos API (Aprendizagem por Projeto I
 |Nome|GitHub|
 | -------- |-------- |
 |**Elisa Carvalho**|[@GitHub](https://github.com/elisadsc)|
-|**Isabel Vitória**|[@GitHub](https://github.com/)|
+|**Isabel Vitória**|[@GitHub](https://github.com/IsabelRReis)|
 |**João Gabriel**|[@GitHub](https://github.com/JoaoGRMira)|
 |**Rebeca Gama**|[@GitHub](https://github.com/RebecaGama)|
 |**Simone Hissae**|[@GitHub](https://github.com/Simonehk)|
